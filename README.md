@@ -1,3 +1,5 @@
+Developed a K-Means clustering pipeline to segment 1,300+ inventory items by stock turnover and aging. Cleaned multi-locale financial data and engineered an automated scoring algorithm to identify high-risk dead stock.
+
 CARA JALANIN:
 
 python .\training.py  
